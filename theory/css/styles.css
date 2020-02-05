@@ -1,0 +1,7 @@
+h1 {
+    property-name: value;
+    /*property name always lower case, don't forget semicolon */
+}
+#name /* id */
+.name /* class */
+h1 .name /* tag + class */
