@@ -1,3 +1,3 @@
-# kakao-clone
+# Kokoa-Clone 2021
 
-Kakao Desktop App Clone
+Kokoa Desktop App Clone
